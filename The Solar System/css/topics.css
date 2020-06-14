@@ -1,0 +1,77 @@
+.banner-content {
+    text-align: center;
+    padding: 140px 0px 20px 0px;
+}
+.banner {
+    background-image: url(../img/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.banner-content h2 {
+	color: orange;
+	text-shadow: 0px 9px 12px black;}
+
+#ifra {
+	color: white;
+}
+
+#blog .tabs a {
+    padding: 7px 25px;
+}
+
+#blog .tabs .active {
+    padding: 18px 25px;
+}
+
+video {
+	object-position: center;
+}
+.tabgroup .text-content .primary-button-correct {
+    margin-bottom: 15px;
+    margin-top: 30px;
+    padding: 13px 20px;
+    letter-spacing: 0.5px;
+    background-color: #fff;
+    color: #000;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.explain{
+	color: black;
+}
+
+#Q1 .text-content .correct-explain{
+	color: #7ee246;
+}
+#Q2 .text-content .correct-explain{
+	color: #7ee246;
+}
+#Q3 .text-content .correct-explain{
+	color: #7ee246;
+}
+#Q4 .text-content .correct-explain{
+	color: #7ee246;
+}
+#Q5 .text-content .correct-explain{
+	color: #7ee246;
+}
+
+
+#Q1 .text-content .incorrect-explain{
+	color: #e24646;
+}
+#Q2 .text-content .incorrect-explain{
+	color: #e24646;
+}
+#Q3 .text-content .incorrect-explain{
+	color: #e24646;
+}
+#Q4 .text-content .incorrect-explain{
+	color: #e24646;
+}
+#Q5 .text-content .incorrect-explain{
+	color: #e24646;
+}
